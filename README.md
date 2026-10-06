@@ -31,7 +31,7 @@ A análise contempla dados históricos de produção, localização da produçã
 - Como a produção de petróleo e Gás Natural evoluiu ano a ano?
 - Quais combustíveis apresentam os maiores volumes de vendas?
 - Quais segmentos de clientes concentram as vendas de combustíveis?
-- Produção de Gás Natural e Petróleo por Localização (Mar e Terra).
+- Como a produção de petróleo e gás natural se distribui entre as operações em mar e terra?
 - Produção de Petróleo e Gás Natural por Estado e Região.
 - Produção de Gás Natural por Região.
 - Tipos de Combustíveis mais vendidos.
