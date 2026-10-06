@@ -28,8 +28,7 @@ A análise contempla dados históricos de produção, localização da produçã
 - Como evoluíram a produção de petróleo e de gás natural ao longo do período analisado?
 - Qual foi o volume total de gás natural queimado ou perdido e qual sua representatividade em relação à produção?
 - Qual foi o volume total de combustíveis comercializados?
-- Produção de Barris de Petróleo por Ano.
-- Produção de Gás Natural por Ano.
+- Como a produção de petróleo e Gás Natural evoluiu ano a ano?
 - Vendas por tipo de Combustível.
 - Vendas de Combustíveis por tipo de cliente.
 - Produção de Gás Natural e Petróleo por Localização (Mar e Terra).
