@@ -2,7 +2,7 @@
 
 ### Perguntas Respondidas
 
-- Quantidade de Petróleo, Gás Natural e Derivados produzidos historicamente.
+- Quantidade de Petróleo e Gás Natural produzidos historicamente.
 - Produção de Petróleo e Gás Natural por Estado e Região.
 - Produção de Petróleo por Ano e variação YoY.
 - Produção de Gás Natural por Região.
