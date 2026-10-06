@@ -4,6 +4,7 @@
 
 - Quantidade de Barris de Petróleo e Gás Natural m³ produzidos historicamente.
 - Quantidade de Gás Natural m³ queimado ou perdido.
+- Quantidade de Combustíveis vendidos.
 - Produção de Petróleo e Gás Natural por Estado e Região.
 - Produção de Petróleo por Ano.
 - Produção de Gás Natural por Região.
