@@ -30,7 +30,7 @@ A análise contempla dados históricos de produção, localização da produçã
 - Qual foi o volume total de combustíveis comercializados?
 - Como a produção de petróleo e Gás Natural evoluiu ano a ano?
 - Quais combustíveis apresentam os maiores volumes de vendas?
-- Vendas de Combustíveis por tipo de cliente.
+- Quais segmentos de clientes concentram as vendas de combustíveis?
 - Produção de Gás Natural e Petróleo por Localização (Mar e Terra).
 - Produção de Petróleo e Gás Natural por Estado e Região.
 - Produção de Gás Natural por Região.
