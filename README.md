@@ -25,7 +25,7 @@ A análise contempla dados históricos de produção, localização da produçã
 
 ### Perguntas Respondidas
 
-- Quantidade de Barris de Petróleo e Gás Natural m³ produzidos historicamente.
+- Como evoluíram a produção de petróleo e de gás natural ao longo do período analisado?
 - Quantidade de Gás Natural m³ queimado ou perdido.
 - Quantidade de Combustíveis vendidos.
 - Produção de Barris de Petróleo por Ano.
