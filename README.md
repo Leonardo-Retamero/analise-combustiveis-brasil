@@ -40,3 +40,11 @@ A análise contempla dados históricos de produção, localização da produçã
 - Vendas de Combustíveis por Estado e Região.
 - Vendas de Combustíveis por segmento de clientes.
 - Como os principais indicadores variaram em relação ao ano anterior (YoY)?
+
+---
+
+### Principais Insights
+
+### 1. Crescimento da produção
+
+> A produção de petróleo e gás natural apresenta tendência de crescimento ao longo do período analisado. Em 2025, o petróleo apresentou crescimento de **11,97%**, enquanto o gás natural cresceu **16,68%** em relação a 2024.
