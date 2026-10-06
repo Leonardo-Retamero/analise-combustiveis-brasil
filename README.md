@@ -56,3 +56,9 @@ A análise contempla dados históricos de produção, localização da produçã
 ### 3. Concentração das vendas
 
 > Óleo Diesel e Gasolina C apresentaram os maiores volumes de vendas, com aproximadamente 1,66 bilhão de m³ e 1,08 bilhão de m³, respectivamente.
+
+### 4. Perfil dos compradores
+
+> O segmento Posto Revendedor concentra o maior volume de vendas, representando aproximadamente 1,36 bilhão de m³, significativamente acima dos demais segmentos.
+
+### 5. Predominância da produção offshore
