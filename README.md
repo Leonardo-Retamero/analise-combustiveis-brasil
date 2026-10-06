@@ -16,3 +16,4 @@
 - Vendas de Combustíveis por Ano.
 - Vendas de Combustíveis por Estado e Região.
 - Vendas de Combustíveis por segmento de clientes.
+- Como os principais indicadores variaram em relação ao ano anterior (YoY)?
