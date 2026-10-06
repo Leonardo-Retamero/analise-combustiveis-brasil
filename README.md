@@ -4,6 +4,10 @@ Projeto de análise de dados desenvolvido com Python, Pandas e Power BI, com o o
 
 A análise contempla dados históricos de produção, localização da produção, volumes comercializados e segmentos de clientes, utilizando técnicas de tratamento, agregação e visualização de dados para identificar tendências e padrões.
 
+### Objetivos
+
+Analisar a evolução histórica da produção de petróleo e gás natural;
+
 ---
 
 ### Perguntas Respondidas
