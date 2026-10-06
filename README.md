@@ -2,9 +2,10 @@
 
 ### Perguntas Respondidas
 
-- Quantidade de Petróleo e Gás Natural produzidos historicamente.
+- Quantidade de Barris de Petróleo e Gás Natural m³ produzidos historicamente.
+- Quantidade de Gás Natural m³ queimado ou perdido.
 - Produção de Petróleo e Gás Natural por Estado e Região.
-- Produção de Petróleo por Ano e variação YoY.
+- Produção de Petróleo por Ano.
 - Produção de Gás Natural por Região.
 - Produção de Gás Natural e Petróleo por Localização (Mar e Terra).
 - Produção de Gás Natural por Ano.
