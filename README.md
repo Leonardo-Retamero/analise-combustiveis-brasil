@@ -1,4 +1,4 @@
-# Análise da Produção e Comercialização de Combustíveis no Brasil
+### Análise da Produção e Comercialização de Combustíveis no Brasil
 
 Projeto de análise de dados desenvolvido com Python, Pandas e Power BI, com o objetivo de explorar a evolução da produção de petróleo e gás natural, a queima/perda de gás natural e a comercialização de combustíveis no Brasil.
 
@@ -6,7 +6,8 @@ A análise contempla dados históricos de produção, localização da produçã
 
 ### Objetivos
 
-Analisar a evolução histórica da produção de petróleo e gás natural;
+- Analisar a evolução histórica da produção de petróleo e gás natural;
+- Avaliar a quantidade de gás natural queimado ou perdido;
 
 ---
 
