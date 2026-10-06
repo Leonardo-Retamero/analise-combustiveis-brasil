@@ -48,3 +48,7 @@ A análise contempla dados históricos de produção, localização da produçã
 ### 1. Crescimento da produção
 
 > A produção de petróleo e gás natural apresenta tendência de crescimento ao longo do período analisado. Em 2025, o petróleo apresentou crescimento de **11,97%**, enquanto o gás natural cresceu **16,68%** em relação a 2024.
+
+### 2. Queima e perda de gás natural
+
+> Em 2025, o volume de gás natural queimado ou perdido apresentou crescimento de 16,72%. Apesar disso, a taxa de queima/perda subiu apenas 0,04% em relação ao ano anterior, indicando que o volume queimado/perdido cresceu abaixo do ritmo da produção.
