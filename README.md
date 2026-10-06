@@ -52,3 +52,7 @@ A análise contempla dados históricos de produção, localização da produçã
 ### 2. Queima e perda de gás natural
 
 > Em 2025, o volume de gás natural queimado ou perdido apresentou crescimento de 16,72%. Apesar disso, a taxa de queima/perda subiu apenas 0,04% em relação ao ano anterior, indicando que o volume queimado/perdido cresceu abaixo do ritmo da produção.
+
+### 3. Concentração das vendas
+
+> Óleo Diesel e Gasolina C apresentaram os maiores volumes de vendas, com aproximadamente 1,66 bilhão de m³ e 1,08 bilhão de m³, respectivamente.
