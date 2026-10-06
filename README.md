@@ -8,6 +8,7 @@
 - Produção de Barris de Petróleo por Ano.
 - Produção de Gás Natural por Ano.
 - Vendas por tipo de Combustível.
+- Vendas de Combustíveis por tipo de cliente.
 - Produção de Petróleo e Gás Natural por Estado e Região.
 - Produção de Gás Natural por Região.
 - Produção de Gás Natural e Petróleo por Localização (Mar e Terra).
