@@ -13,6 +13,14 @@ A análise contempla dados históricos de produção, localização da produçã
 - Comparar a produção realizada em mar e terra;
 - Avaliar a variação anual dos principais indicadores por meio do YoY.
 
+### Ferramentas utilizadas
+
+- Python
+- Pandas
+- Matplotlib
+- Power BI
+- DAX
+
 ---
 
 ### Perguntas Respondidas
