@@ -5,11 +5,12 @@
 - Quantidade de Barris de Petróleo e Gás Natural m³ produzidos historicamente.
 - Quantidade de Gás Natural m³ queimado ou perdido.
 - Quantidade de Combustíveis vendidos.
-- Produção de Petróleo e Gás Natural por Estado e Região.
 - Produção de Barris de Petróleo por Ano.
+- Produção de Gás Natural por Ano.
+- Vendas por tipo de Combustível.
+- Produção de Petróleo e Gás Natural por Estado e Região.
 - Produção de Gás Natural por Região.
 - Produção de Gás Natural e Petróleo por Localização (Mar e Terra).
-- Produção de Gás Natural por Ano.
 - Tipos de Combustíveis mais vendidos.
 - Vendas de Combustíveis por Ano.
 - Vendas de Combustíveis por Estado e Região.
