@@ -10,6 +10,7 @@
 - Vendas por tipo de Combustível.
 - Vendas de Combustíveis por tipo de cliente.
 - Produção de Barris de Petróleo por localização (Terra e Mar).
+- Produção de Gás Natural por localização (Terra e Mar).
 - Produção de Petróleo e Gás Natural por Estado e Região.
 - Produção de Gás Natural por Região.
 - Produção de Gás Natural e Petróleo por Localização (Mar e Terra).
