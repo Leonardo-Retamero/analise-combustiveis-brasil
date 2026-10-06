@@ -11,6 +11,7 @@ A análise contempla dados históricos de produção, localização da produçã
 - Identificar os combustíveis com maior volume de vendas;
 - Analisar a distribuição das vendas por segmento de cliente;
 - Comparar a produção realizada em mar e terra;
+- Avaliar a variação anual dos principais indicadores por meio do YoY.
 
 ---
 
