@@ -9,6 +9,7 @@ A análise contempla dados históricos de produção, localização da produçã
 - Analisar a evolução histórica da produção de petróleo e gás natural;
 - Avaliar a quantidade de gás natural queimado ou perdido;
 - Identificar os combustíveis com maior volume de vendas;
+- Analisar a distribuição das vendas por segmento de cliente;
 
 ---
 
