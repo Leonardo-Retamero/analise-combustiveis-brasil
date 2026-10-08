@@ -157,6 +157,10 @@ RETURN
 DIVIDE(Atual - Anterior, Anterior, 0)
 ```
 
+### Taxa Queima/Perda YoY
+
+Calcula a variação percentual da taxa de queima/perda em relação ao mesmo período do ano anterior, permitindo avaliar se a participação do gás queimado ou perdido aumentou ou diminuiu proporcionalmente à produção.
+
 ```sql
 Taxa Queia/Perda YoY = 
 VAR Atual = [Taxa de Queima/Perda de Gás Natural]
