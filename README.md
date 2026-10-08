@@ -124,3 +124,11 @@ VAR Anterior = CALCULATE([Taxa de Queima/Perda de Gás Natural], SAMEPERIODLASTY
 RETURN
 DIVIDE(Atual - Anterior, Anterior, 0)
 ```
+
+```sql
+Combustíveis YoY = 
+VAR Atual = [Vendas de Combustíveis m³]
+VAR Anterior = CALCULATE([Vendas de Combustíveis m³], SAMEPERIODLASTYEAR(DimCalendario[Date]))
+RETURN
+DIVIDE(Atual - Anterior, Anterior, 0)
+```
