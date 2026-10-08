@@ -94,6 +94,10 @@ Calcula o volume total de gás natural queimado ou perdido, em metros cúbicos.
 Queima/Perda Gás Natural m³ = SUM(queima_perda_gn[QUEIMADO]) 
 ```
 
+### Vendas de Combustíveis m³
+
+Calcula o volume total de combustíveis comercializados, em metros cúbicos.
+
 ```sql
 Vendas de Combustíveis m³ = SUM(vendas_combustiveis[VENDAS])
 ```
