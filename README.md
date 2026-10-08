@@ -108,3 +108,11 @@ VAR Anterior = CALCULATE([Produção Gás Natural m³], SAMEPERIODLASTYEAR(DimCa
 RETURN
 DIVIDE(Atual - Anterior, Anterior, 0)
 ```
+
+```sql
+Queima/Perda YoY = 
+VAR Atual = [Queima/Perda Gás Natural m³]
+VAR Anterior = CALCULATE([Queima/Perda Gás Natural m³], SAMEPERIODLASTYEAR(DimCalendario[Date]))
+RETURN
+DIVIDE(Atual - Anterior, Anterior, 0)
+```
