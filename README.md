@@ -78,6 +78,10 @@ Calcula o volume total de petróleo produzido, em barris
 Produção Barris Petróleo = SUM(producao_petroleo[PRODUÇÃO_BARRIS])
 ```
 
+### Produção Gás Natural m³
+
+Calcula o volume total de gás natural produzido, em metros cúbicos.
+
 ```sql
 Produção Gás Natural m³ = SUM(producao_gn[PRODUÇÃO])
 ```
