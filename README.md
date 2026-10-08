@@ -70,6 +70,10 @@ A análise contempla dados históricos de produção, localização da produçã
 
 As medidas DAX foram desenvolvidas no Power BI para consolidar os indicadores de produção, perdas e comercialização de combustíveis, além de permitir a análise da evolução anual dos resultados.
 
+### Produção Barris Petróleo
+
+Calcula o volume total de petróleo produzido, em barris
+
 ```sql
 Produção Barris Petróleo = SUM(producao_petroleo[PRODUÇÃO_BARRIS])
 ```
