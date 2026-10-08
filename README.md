@@ -100,3 +100,11 @@ VAR Anterior = CALCULATE([Produção Barris Petróleo], SAMEPERIODLASTYEAR(DimCa
 RETURN
 DIVIDE(Atual - Anterior, Anterior, 0)
 ```
+
+```sql
+Gás Natural YoY = 
+VAR Atual = [Produção Gás Natural m³]
+VAR Anterior = CALCULATE([Produção Gás Natural m³], SAMEPERIODLASTYEAR(DimCalendario[Date]))
+RETURN
+DIVIDE(Atual - Anterior, Anterior, 0)
+```
