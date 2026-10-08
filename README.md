@@ -63,3 +63,11 @@ A análise contempla dados históricos de produção, localização da produçã
 ### 5. Predominância da produção offshore
 
 > A produção está concentrada em operações em mar. O petróleo apresenta aproximadamente 92% de sua produção em mar, enquanto o gás natural apresenta cerca de 77%.
+
+---
+
+### Medidas DAX
+
+```sql
+Produção Barris Petróleo = SUM(producao_petroleo[PRODUÇÃO_BARRIS])
+```
