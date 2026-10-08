@@ -81,6 +81,10 @@ Queima/Perda Gás Natural m³ = SUM(queima_perda_gn[QUEIMADO])
 ```
 
 ```sql
+Vendas de Combustíveis m³ = SUM(vendas_combustiveis[VENDAS])
+```
+
+```sql
 Taxa de Queima/Perda de Gás Natural = 
 DIVIDE(
     [Queima/Perda Gás Natural m³],
