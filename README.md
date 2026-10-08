@@ -181,6 +181,12 @@ RETURN
 DIVIDE(Atual - Anterior, Anterior, 0)
 ```
 
+### 4. Indicador de vendas por produto
+
+### Venda de Etanol m³
+
+Calcula o volume comercializado de etanol hidratado, reutilizando a medida de vendas totais e aplicando um filtro específico ao produto. Essa abordagem permite analisar um combustível individual sem precisar criar uma nova soma diretamente sobre a coluna de vendas.
+
 ```sql
 Venda de Etanol m³ = 
 CALCULATE(
