@@ -86,6 +86,10 @@ Calcula o volume total de gás natural produzido, em metros cúbicos.
 Produção Gás Natural m³ = SUM(producao_gn[PRODUÇÃO])
 ```
 
+### Queima/Perda Gás Natural m³
+
+Calcula o volume total de gás natural queimado ou perdido, em metros cúbicos.
+
 ```sql
 Queima/Perda Gás Natural m³ = SUM(queima_perda_gn[QUEIMADO]) 
 ```
