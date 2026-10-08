@@ -132,3 +132,11 @@ VAR Anterior = CALCULATE([Vendas de Combustíveis m³], SAMEPERIODLASTYEAR(DimCa
 RETURN
 DIVIDE(Atual - Anterior, Anterior, 0)
 ```
+
+```sql
+Venda de Etanol m³ = 
+CALCULATE(
+    [Vendas de Combustíveis m³],
+    vendas_combustiveis[PRODUTO] = "ETANOL HIDRATADO"
+)
+```
