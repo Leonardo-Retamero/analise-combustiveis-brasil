@@ -133,6 +133,10 @@ RETURN
 DIVIDE(Atual - Anterior, Anterior, 0)
 ```
 
+### Gás Natural YoY
+
+Calcula a variação percentual anual do volume de gás natural produzido.
+
 ```sql
 Gás Natural YoY = 
 VAR Atual = [Produção Gás Natural m³]
