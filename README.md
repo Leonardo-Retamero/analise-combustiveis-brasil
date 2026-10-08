@@ -70,6 +70,10 @@ A análise contempla dados históricos de produção, localização da produçã
 
 As medidas DAX foram desenvolvidas no Power BI para consolidar os indicadores de produção, perdas e comercialização de combustíveis, além de permitir a análise da evolução anual dos resultados.
 
+### 1. Indicadores de volume
+
+Medidas utilizadas para calcular os volumes totais de petróleo produzido, gás natural produzido, gás natural queimado ou perdido e combustíveis comercializados.
+
 ### Produção Barris Petróleo
 
 Calcula o volume total de petróleo produzido, em barris
