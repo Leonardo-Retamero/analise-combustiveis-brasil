@@ -71,3 +71,7 @@ A análise contempla dados históricos de produção, localização da produçã
 ```sql
 Produção Barris Petróleo = SUM(producao_petroleo[PRODUÇÃO_BARRIS])
 ```
+
+```sql
+Produção Gás Natural m³ = SUM(producao_gn[PRODUÇÃO])
+```
