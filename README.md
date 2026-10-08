@@ -102,6 +102,12 @@ Calcula o volume total de combustíveis comercializados, em metros cúbicos.
 Vendas de Combustíveis m³ = SUM(vendas_combustiveis[VENDAS])
 ```
 
+### 2. Indicador de queima e perda de gás natural
+
+### Taxa de Queima/Perda de Gás Natural
+
+Calcula a proporção entre o volume de gás natural queimado ou perdido e o volume total produzido. O resultado permite acompanhar a representatividade dessas perdas em relação à produção.
+
 ```sql
 Taxa de Queima/Perda de Gás Natural = 
 DIVIDE(
