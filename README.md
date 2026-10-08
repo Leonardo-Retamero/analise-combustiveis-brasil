@@ -241,3 +241,20 @@ DISTINCT(
     )
 )
 ```
+
+### 3. DimGeografia
+
+A DimGeografia reúne os atributos geográficos utilizados na análise, permitindo explorar a distribuição regional dos dados.
+
+Objetivo: permitir a análise dos indicadores por região e estado, facilitando a identificação de diferenças geográficas na produção e na comercialização de combustíveis.
+
+```sql
+DimGeografia = 
+DISTINCT(
+    SELECTCOLUMNS(
+        vendas_combustiveis,
+        "UF", vendas_combustiveis[UNIDADE DA FEDERAÇÃO],
+        "REGIAO", vendas_combustiveis[GRANDE REGIÃO]
+    )
+)
+```
