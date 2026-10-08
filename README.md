@@ -92,3 +92,11 @@ DIVIDE(
     0
 )
 ```
+
+```sql
+Petróleo YoY = 
+VAR Atual = [Produção Barris Petróleo]
+VAR Anterior = CALCULATE([Produção Barris Petróleo], SAMEPERIODLASTYEAR(DimCalendario[Date]))
+RETURN
+DIVIDE(Atual - Anterior, Anterior, 0)
+```
