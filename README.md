@@ -117,6 +117,14 @@ DIVIDE(
 )
 ```
 
+### 3. Indicadores de variação anual (YoY)
+
+O indicador YoY (Year over Year) calcula a variação percentual de um indicador em relação ao mesmo período do ano anterior. Neste projeto, as medidas utilizam SAMEPERIODLASTYEAR() para recuperar o período correspondente do ano anterior e DIVIDE() para calcular a variação relativa.
+
+### Petróleo YoY
+
+Calcula a variação percentual anual do volume de petróleo produzido.
+
 ```sql
 Petróleo YoY = 
 VAR Atual = [Produção Barris Petróleo]
