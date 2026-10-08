@@ -79,3 +79,12 @@ Produção Gás Natural m³ = SUM(producao_gn[PRODUÇÃO])
 ```sql
 Queima/Perda Gás Natural m³ = SUM(queima_perda_gn[QUEIMADO]) 
 ```
+
+```sql
+Taxa de Queima/Perda de Gás Natural = 
+DIVIDE(
+    [Queima/Perda Gás Natural m³],
+    [Produção Gás Natural m³],
+    0
+)
+```
