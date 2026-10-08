@@ -68,6 +68,8 @@ A análise contempla dados históricos de produção, localização da produçã
 
 ### Medidas DAX
 
+As medidas DAX foram desenvolvidas no Power BI para consolidar os indicadores de produção, perdas e comercialização de combustíveis, além de permitir a análise da evolução anual dos resultados.
+
 ```sql
 Produção Barris Petróleo = SUM(producao_petroleo[PRODUÇÃO_BARRIS])
 ```
