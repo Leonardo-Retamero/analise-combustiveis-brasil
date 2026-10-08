@@ -75,3 +75,7 @@ Produção Barris Petróleo = SUM(producao_petroleo[PRODUÇÃO_BARRIS])
 ```sql
 Produção Gás Natural m³ = SUM(producao_gn[PRODUÇÃO])
 ```
+
+```sql
+Queima/Perda Gás Natural m³ = SUM(queima_perda_gn[QUEIMADO]) 
+```
