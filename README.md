@@ -169,6 +169,10 @@ RETURN
 DIVIDE(Atual - Anterior, Anterior, 0)
 ```
 
+### Combustíveis YoY
+
+Calcula a variação percentual anual do volume de combustíveis comercializados.
+
 ```sql
 Combustíveis YoY = 
 VAR Atual = [Vendas de Combustíveis m³]
