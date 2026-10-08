@@ -223,3 +223,21 @@ ADDCOLUMNS(
 )
 ```
 
+### 2. DimProduto
+
+A DimProduto centraliza os nomes dos produtos analisados e permite aplicar filtros consistentes entre as tabelas relacionadas a diferentes indicadores.
+
+Objetivo: facilitar a comparação entre produtos e permitir análises segmentadas por categoria de produto.
+
+```sql
+DimProduto = 
+DISTINCT(
+    UNION(
+        SELECTCOLUMNS(producao_petroleo, "PRODUTO", producao_petroleo[PRODUTO]),
+        SELECTCOLUMNS(producao_gn, "PRODUTO", producao_gn[PRODUTO]),
+        SELECTCOLUMNS(queima_perda_gn, "PRODUTO", queima_perda_gn[PRODUTO]),
+        SELECTCOLUMNS(vendas_combustiveis, "PRODUTO", vendas_combustiveis[PRODUTO]),
+        SELECTCOLUMNS(vendas_combustiveis_segmento, "PRODUTO", vendas_combustiveis_segmento[PRODUTO])
+    )
+)
+```
