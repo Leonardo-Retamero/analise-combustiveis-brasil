@@ -145,6 +145,10 @@ RETURN
 DIVIDE(Atual - Anterior, Anterior, 0)
 ```
 
+### Queima/Perda YoY
+
+Calcula a variação percentual anual do volume de gás natural queimado ou perdido, permitindo acompanhar a evolução desse indicador ao longo do tempo.
+
 ```sql
 Queima/Perda YoY = 
 VAR Atual = [Queima/Perda Gás Natural m³]
