@@ -198,3 +198,11 @@ CALCULATE(
     vendas_combustiveis[PRODUTO] = "ETANOL HIDRATADO"
 )
 ```
+
+### Dimensões do Modelo de Dados
+
+As dimensões foram desenvolvidas para organizar atributos descritivos e facilitar a análise dos dados por período, produto e localização geográfica. Elas permitem centralizar informações compartilhadas entre as tabelas e simplificar a construção de filtros, segmentações e visualizações no Power BI.
+
+A DimCalendario é responsável por centralizar as informações temporais utilizadas na análise. Ela contém atributos como data, ano, mês, ano-mês e trimestre, permitindo explorar os indicadores em diferentes granularidades e realizar comparações entre períodos.
+
+Objetivo: padronizar a análise temporal e possibilitar comparações anuais, mensais e trimestrais, incluindo os indicadores YoY (Year over Year).
