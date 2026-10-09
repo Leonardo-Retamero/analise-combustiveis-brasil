@@ -64,6 +64,11 @@ A análise contempla dados históricos de produção, localização da produçã
 
 > A produção está concentrada em operações em mar. O petróleo apresenta aproximadamente 92% de sua produção em mar, enquanto o gás natural apresenta cerca de 77%.
 
+### 6. Variação nas vendas de etanol
+
+> As vendas de etanol hidratado apresentam oscilações expressivas ao longo do período analisado, com períodos de retração e recuperação. Essa variação pode estar associada a fatores como a competitividade do etanol em relação à gasolina, a disponibilidade do produto e as condições da safra de cana-de-açúcar. Entretanto, essas relações não podem ser confirmadas apenas com os dados de vendas utilizados neste projeto.
+
+
 ---
 
 ### Medidas DAX
