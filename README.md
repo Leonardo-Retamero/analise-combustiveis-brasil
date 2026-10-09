@@ -68,6 +68,9 @@ A análise contempla dados históricos de produção, localização da produçã
 
 > As vendas de etanol hidratado apresentam oscilações expressivas ao longo do período analisado, com períodos de retração e recuperação. Essa variação pode estar associada a fatores como a competitividade do etanol em relação à gasolina, a disponibilidade do produto e as condições da safra de cana-de-açúcar. Entretanto, essas relações não podem ser confirmadas apenas com os dados de vendas utilizados neste projeto.
 
+### 7. Concentração da produção na região Sudeste
+
+> A região Sudeste concentra a maior parcela da produção de petróleo e gás natural entre as regiões analisadas. Esse resultado está associado à relevância das operações offshore brasileiras, incluindo os campos do pré-sal, especialmente nas bacias de Santos e Campos.
 
 ---
 
