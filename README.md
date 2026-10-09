@@ -32,12 +32,10 @@ A análise contempla dados históricos de produção, localização da produçã
 - Quais combustíveis apresentam os maiores volumes de vendas?
 - Quais segmentos de clientes concentram as vendas de combustíveis?
 - Como a produção de petróleo e gás natural se distribui entre as operações em mar e terra?
-- Produção de Petróleo e Gás Natural por Estado e Região.
-- Produção de Gás Natural por Região.
-- Tipos de Combustíveis mais vendidos.
-- Vendas de Combustíveis por Ano.
-- Vendas de Combustíveis por Estado e Região.
-- Vendas de Combustíveis por segmento de clientes.
+- Como a produção de petróleo e gás natural está distribuída entre as regiões brasileiras?
+- Como evoluíram as vendas de etanol ao longo dos anos?
+- Quais estados apresentam os maiores volumes de vendas de combustíveis?
+- Quais estados registram os maiores volumes de queima e perda de gás natural?
 - Como os principais indicadores variaram em relação ao ano anterior (YoY)?
 
 ---
