@@ -76,6 +76,10 @@ A análise contempla dados históricos de produção, localização da produçã
 
 > O Rio de Janeiro apresenta o maior volume de queima/perda de gás natural entre os estados analisados, com aproximadamente 35 milhões de m³, superando significativamente os demais. Desse total, cerca de 34 milhões de m³ estão associados à produção em mar, indicando forte concentração das ocorrências em operações offshore.
 
+### 9. Comercialização de combustíveis por estado
+
+> São Paulo registra o maior volume de vendas de combustíveis entre as unidades da federação, com aproximadamente 1,14 bilhão de m³, Minas Gerais e Paraná aparecem na sequência.
+
 ---
 
 ### Medidas DAX
