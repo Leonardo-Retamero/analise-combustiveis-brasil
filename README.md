@@ -32,6 +32,7 @@ A análise exploratória foi desenvolvida em Python, utilizando Pandas para mani
 - Inspeção das bases: leitura dos arquivos CSV, visualização dos primeiros registros e verificação da estrutura e dos tipos de dados com Pandas.
 - Preparação dos dados: conversão de colunas numéricas armazenadas como texto para tipos numéricos, permitindo realizar cálculos e agregações.
 - Conversão de unidades: cálculo da produção de petróleo em barris a partir dos valores em metros cúbicos.
+- Agregação dos dados: aplicação de agrupamentos e somatórios por ano, tipo de combustível, localização da produção, estado e região.
 
 ---
 
