@@ -30,6 +30,7 @@ A análise exploratória foi desenvolvida em Python, utilizando Pandas para mani
 ### Etapas realizadas
 
 - Inspeção das bases: leitura dos arquivos CSV, visualização dos primeiros registros e verificação da estrutura e dos tipos de dados com Pandas.
+- Preparação dos dados: conversão de colunas numéricas armazenadas como texto para tipos numéricos, permitindo realizar cálculos e agregações.
 
 ---
 
