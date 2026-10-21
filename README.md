@@ -34,6 +34,7 @@ A análise exploratória foi desenvolvida em Python, utilizando Pandas para mani
 - Conversão de unidades: cálculo da produção de petróleo em barris a partir dos valores em metros cúbicos.
 - Agregação dos dados: aplicação de agrupamentos e somatórios por ano, tipo de combustível, localização da produção, estado e região.
 - Análise temporal: avaliação da evolução histórica da produção de petróleo e gás natural, da queima/perda de gás natural e das vendas de combustíveis.
+- Análise geográfica: comparação dos volumes entre operações em mar e terra, regiões brasileiras e unidades da federação.
 
 ---
 
