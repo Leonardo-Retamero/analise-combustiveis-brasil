@@ -33,6 +33,7 @@ A análise exploratória foi desenvolvida em Python, utilizando Pandas para mani
 - Preparação dos dados: conversão de colunas numéricas armazenadas como texto para tipos numéricos, permitindo realizar cálculos e agregações.
 - Conversão de unidades: cálculo da produção de petróleo em barris a partir dos valores em metros cúbicos.
 - Agregação dos dados: aplicação de agrupamentos e somatórios por ano, tipo de combustível, localização da produção, estado e região.
+- Análise temporal: avaliação da evolução histórica da produção de petróleo e gás natural, da queima/perda de gás natural e das vendas de combustíveis.
 
 ---
 
