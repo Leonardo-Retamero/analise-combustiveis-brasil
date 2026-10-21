@@ -36,6 +36,7 @@ A análise exploratória foi desenvolvida em Python, utilizando Pandas para mani
 - Análise temporal: avaliação da evolução histórica da produção de petróleo e gás natural, da queima/perda de gás natural e das vendas de combustíveis.
 - Análise geográfica: comparação dos volumes entre operações em mar e terra, regiões brasileiras e unidades da federação.
 - Análise comercial: identificação dos combustíveis com maiores volumes de vendas, dos estados com maior comercialização e dos segmentos de clientes com maior participação.
+- Visualização dos resultados: criação de gráficos de linhas e barras, incluindo rankings e comparações entre categorias, para facilitar a identificação de tendências e diferenças.
 
 ---
 
