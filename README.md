@@ -23,6 +23,12 @@ A análise contempla dados históricos de produção, localização da produçã
 
 ---
 
+### Análise Exploratória de Dados (EDA)
+
+A análise exploratória foi desenvolvida em Python, utilizando Pandas para manipulação e agregação dos dados e Matplotlib para a criação de visualizações. O objetivo foi compreender o comportamento histórico das variáveis, identificar concentrações geográficas e comparar os volumes de produção e comercialização de combustíveis.
+
+---
+
 ### Perguntas Respondidas
 
 - Como evoluíram a produção de petróleo e de gás natural ao longo do período analisado?
